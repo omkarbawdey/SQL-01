@@ -1,0 +1,9 @@
+// 175 LeetCode Question : Combine Two Tables
+// Question Medium ; Easy
+//solution :-
+select
+firstName,
+lastName,
+city,
+state
+from person p
